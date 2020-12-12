@@ -1,0 +1,19 @@
+
+
+/* Media Query */
+@media (max-width: 1380px) {
+  .social-heading {
+    font-size: 40px;
+  }
+}
+@media (max-width: 768px) {
+  .social-heading {
+    font-size: 30px;
+    text-align: center;
+  }
+  .social-subtitle {
+    font-size: 16px;
+    line-height: normal;
+    text-align: center;
+  }
+}
